@@ -1,5 +1,7 @@
 # helloworld
 
+## Repository for helloworld as required by [Patchwork Manila Core](https://github.com/diezcami/pwm-subcore)
+
 ## Answer for Commit 2
 * How is Git/GitHub relevant to me at all?
   * First off, Git and GitHub are two different things. Git is a versioning system while GitHub is a repository.
